@@ -1,6 +1,6 @@
 # Prose Grinder
 
-Writing fiction is hard. So is the publishing process. This collecitons of tools aims to make both eaiser.
+Writing fiction is hard. So is the publishing process. This collection of tools aims to make both eaiser.
 
 ## Who is Prose Grinder
 
