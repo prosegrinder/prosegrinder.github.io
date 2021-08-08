@@ -55,8 +55,3 @@ A few are linked inline above, but I have many others in the planning stages, in
 * A modern approach to selling publications backed by the above
 
 Free. Because money flows to the writer.
-
-
-
-
-
